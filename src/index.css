@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.list {
+    @apply flex space-x-10 text-neutral-800 text-base
+}
